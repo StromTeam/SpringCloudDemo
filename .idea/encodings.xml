@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/api_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/credit_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurek_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurek_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurek_service/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/inventory_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oauth_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oauth_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wms_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul_service/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

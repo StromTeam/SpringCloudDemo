@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zuul_service" />
+        <module name="config_service" />
+        <module name="eurek_service" />
+        <module name="inventory_service" />
+        <module name="mall" />
+        <module name="order_service" />
+        <module name="credit_service" />
+        <module name="wms_service" />
+        <module name="oauth_service" />
+        <module name="api_service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api_service" options="-parameters" />
+      <module name="config_service" options="-parameters" />
+      <module name="credit_service" options="-parameters" />
+      <module name="eurek_service" options="-parameters" />
+      <module name="inventory_service" options="-parameters" />
+      <module name="mall" options="-parameters" />
+      <module name="oauth_service" options="-parameters" />
+      <module name="order_service" options="-parameters" />
+      <module name="wms_service" options="-parameters" />
+      <module name="zuul_service" options="-parameters" />
+    </option>
+  </component>
+</project>
